@@ -14,7 +14,3 @@
 *.mps
 *.fls
 *.fdb_latexmk
-
-# PlantUML
-tex/assets/uml/*.svg
-tex/assets/uml/*.pdf_tex
